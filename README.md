@@ -25,6 +25,7 @@ cargo run
 ```
 
 ## Sample Usage
+```text
 >> x = 4
 x = 4
 >> y = x + 3
@@ -44,6 +45,7 @@ gnatmake main.adb
 ```
 
 ## Sample Usage
+```text
 >> x := 4
 x =  4
 >> y := x + 3
@@ -62,6 +64,7 @@ perl calculator.pl
 ```
 
 ## Sample Usage
+```text
 >> x = 4
 x = 4
 >> y = x + 3
@@ -79,6 +82,7 @@ cd scheme_calc
 racket calculator.scm
 ```
 ## Sample Usage
+```text
 >> x = 4
 x = 4
 >> y = (+ x 3)
@@ -98,6 +102,7 @@ swipl
 ```
 
 ## Sample Usage
+```text
 >> x = 4.
 x = 4
 >> y = x + 3.
@@ -111,6 +116,6 @@ Error: Undefined variable "z".
 >> 3 / 0.
 Error: Division by zero!
 >> exit.
-```
+
 
 
