@@ -111,5 +111,6 @@ Error: Undefined variable "z".
 >> 3 / 0.
 Error: Division by zero!
 >> exit.
+```
 
 
